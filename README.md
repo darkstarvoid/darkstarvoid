@@ -1,6 +1,6 @@
 <div align="left">
 
-![codewars](https://www.codewars.com/users/darkstarvoid/badges/small)
+![codewars](https://www.codewars.com/users/darkstarvoid/badges/micro)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=darkstarvoid)
 
