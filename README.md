@@ -1,8 +1,6 @@
-<div align="left">
 
-![codewars](https://www.codewars.com/users/darkstarvoid/badges/micro)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=darkstarvoid)
+<a href="https://www.codewars.com/users/darkstarvoid/" target="_blank"> <img src="https://www.codewars.com/users/darkstarvoid/badges/micro" alt="codewars" /> </a>
 
 <!--
 
