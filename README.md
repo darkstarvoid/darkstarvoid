@@ -4,7 +4,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=darkstarvoid)
 
-_______
 <!--
 
 <p align="center">
