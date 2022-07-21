@@ -2,6 +2,10 @@
 
 <a href="https://www.codewars.com/users/darkstarvoid/" target="_blank"> <img src="https://www.codewars.com/users/darkstarvoid/badges/micro" alt="codewars" /> </a>
 
+
+<a href="https://projecteuler.net/" target="_blank"> <img src="https://projecteuler.net/profile/darkstarvoid.png" alt="project euler" /> </a>
+
+
 <!--
 
 <p align="center">
